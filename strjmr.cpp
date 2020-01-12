@@ -174,7 +174,6 @@ wchar_t rep(wchar_t ab)
    case('o'):
     ab=o[rand()%sizeof(o)/4];
     break;
-
    case('P'):
     ab=P[rand()%sizeof(P)/4];
     break;
